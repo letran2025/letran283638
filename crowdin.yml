@@ -1,2 +1,6 @@
 bundles:
   - 2
+files:
+  - source: /folder/vi/*.json
+    translation: '%language%'
+    multilingual: 1
